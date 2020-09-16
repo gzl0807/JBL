@@ -14,7 +14,6 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>cup-service</module>
         <module>cup-dao</module>
         <module>cup-domain</module>
         <module>cup-common</module>
